@@ -1,1 +1,3 @@
 # DataBindingSample
+Android Architecture ComponentsのDataBindingの超簡易サンプル  
+DataBindingの使用方法理解の導入に使用
